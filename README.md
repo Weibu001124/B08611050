@@ -12,18 +12,18 @@
 
 >**Errors should never pass silently.**
 
-錯誤絕不能悄悄忽略：我想這在每一個程式語言都是如此,遇到錯誤就要解決!
+錯誤絕不能悄悄忽略：我想這在每一個程式語言都是如此,遇到錯誤就要解決！
 
 >**Now is better than never.**
 
-做優於不做：凡事都要嘗試看看,不要遇到難題就放棄,這大概是寫程式的宗旨吧
-
 >**Although never is often better than *right* now.**
 
-然而不假思索還不如不做：每次解完一道題目,就覺得前面思考努力了這麼久終於有回報了
+凡事應三思而後行,但坐而言不如起而行：與其在那邊用想的,不如實際操作看看,如果有錯誤再解決就好了,什麼都不做的話,也不會有進展,感覺很符合自己的人生哲學,勇於嘗試！！！
 
 ### 參考資料
 
 [The Zen of Python](https://www.python.org/dev/peps/pep-0020/)
 
 [Python之禪-維基百科](https://zh.wikipedia.org/wiki/Python%E4%B9%8B%E7%A6%85)
+
+[Python的禪意-痞客邦](https://silentpower.pixnet.net/blog/post/27762175)
